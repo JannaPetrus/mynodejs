@@ -1,0 +1,19 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JannaPetrus/mynodejs.git"
+  },
+  "author": "Janna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JannaPetrus/mynodejs/issues"
+  },
+  "homepage": "https://github.com/JannaPetrus/mynodejs#readme"
+}
