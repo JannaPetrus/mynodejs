@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JannaPetrus/mynodejs/issues"
   },
-  "homepage": "https://github.com/JannaPetrus/mynodejs#readme"
+  "homepage": "https://github.com/JannaPetrus/mynodejs#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
